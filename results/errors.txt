@@ -1,0 +1,3 @@
+не запускается тест на строки(01), посмотри, что там может быть не так
+в regex(05) - ошибка в getPasswordValidator
+cond-n-loops(06) - ошибка в isCreditCardNumber
